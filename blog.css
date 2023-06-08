@@ -1,0 +1,45 @@
+.portfolio-website-section {
+  background-color: whitesmoke;
+  margin: 60px;
+}
+
+.container {
+  border: 10px solid white;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.heading {
+  color: orangered;
+  font-size: 18px;
+}
+
+.main-heading {
+  color: black;
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+.projects-heading {
+  color: white;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.projects-name {
+  color: black;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.description {
+  color: #9aa5b1;
+  font-size: 16px;
+}
+
+.text-card {
+  background-color: white;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
